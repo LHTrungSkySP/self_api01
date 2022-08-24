@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "imcHkp7c0adOU0GoTUwyH6/zlV2tEutS7Td3wXLWsXlR/V+F4sdj8hr76Ta8TlZUXpDwaqBhS6Htk6P91nC1hw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Le Trung\\Desktop\\misaAPI\\Misa.LHTrung.API\\Misa.LHTrung.API\\Misa.LHTrung.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Le Trung\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Le Trung\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Le Trung\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Le Trung\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\6.4.0\\swashbuckle.aspnetcore.annotations.6.4.0.nupkg.sha512",
+    "C:\\Users\\Le Trung\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Le Trung\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Le Trung\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
